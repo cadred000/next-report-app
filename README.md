@@ -25,3 +25,4 @@ suites separately:
 npm run test # This command runs the Vite unit tests, specified in package.json.
 npx playwriight test
 ```
+task complete
